@@ -1,6 +1,6 @@
 
 <h1 align="center"> Xin chào, Mình là duphlot (Phan Thùy Dung) </h1>
-<p align="center">Mình là Coder và Lhper, ngoài code ra thì mình còn thích cậu nữa đó 😜</p> 
+<p align="center"> Tôi từng chìm ngập trong bóng tối, cho đến khi gặp được em...</p> 
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ospekolac)
