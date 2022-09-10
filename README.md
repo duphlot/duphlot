@@ -3,6 +3,7 @@
 <p align="center"> Tôi từng chìm ngập trong bóng tối, cho đến khi gặp được cậu...</p> 
 
 <h2>Sầu đời cùng ptd</h2> 
+<p>Trong mắt người chắc tôi hề vcl nhỉ ?</p>
 <p>(08/09) Tôi nhắc người ngủ sớm, người tắt trạng thái hoạt động ...</p>
 <p>(11/09) Người off facebook, tôi tưởng người đi học, nhưng hóa ra là người đi chơi người người khác ... </p>
 
