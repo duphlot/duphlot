@@ -2,6 +2,8 @@
 <h1 align="center"> Xin chào, Mình là duphlot (Phan Thùy Dung) </h1>
 <p align="center"> Tôi từng chìm ngập trong bóng tối, cho đến khi gặp được cậu...</p> 
 
+<br><br>
+
 <h2>Sầu đời cùng ptd</h2> 
 <p>(08/09) Tôi nhắc người ngủ sớm, người tắt trạng thái hoạt động ...</p>
 <p>(11/09) Người off facebook, tôi tưởng người đi học, nhưng hóa ra là người đi chơi người người khác ... </p>
