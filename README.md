@@ -8,9 +8,9 @@
 <br><br>
 
 <h2>Sầu đời cùng ptd</h2> 
-<p>(08/09) Tôi nhắc người ngủ sớm, người tắt trạng thái hoạt động ...</p>
-<p>(11/09) Người off facebook, tôi tưởng người đi học, nhưng hóa ra là người đi chơi người người khác ... </p>
-<h1>==> ĐỜI TÔI HỀ VÃI LONE</h1>
+<p>(08/09) Tôi nhắc người ta ngủ sớm, người ta tắt trạng thái hoạt động ...</p>
+<p>(11/09) Người ta off facebook, tôi tưởng người ta đi học, nhưng hóa ra là người ta đi chơi với người khác ... </p>
+<h4>==> ĐỜI TÔI HỀ VÃI LONE</h4>
 
 
 
