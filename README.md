@@ -7,11 +7,5 @@
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-39424e?style=plastiflat&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/acclone)
 <br><br>
 
-<h2>Sầu đời cùng ptd</h2> 
-<p>(08/09) Tôi nhắc người ta ngủ sớm, người ta tắt trạng thái hoạt động ...</p>
-<p>(11/09) Người ta off facebook, tôi tưởng người ta đi học, nhưng hóa ra là người ta đi chơi với người khác ... </p>
-<h4>==> ĐỜI TÔI HỀ VÃI LONE</h4>
-
-
 
 <br> <br> <br>
