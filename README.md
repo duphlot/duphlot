@@ -1,6 +1,6 @@
 
 <h1 align="center"> Xin chào, Mình là duphlot (Phan Thùy Dung) </h1>
-<p align="center">toi yeu cau hon ca sinh mang. Nhung trong mat cau, toi chang dang gia mot xu ...</p> 
+<p align="center">toi rat nho cau, ve voi toi di ...</p> 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ospekolac)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=flat&logo=gmail&logoColor=white)](mailto:phanthuydung6666@gmail.com)
