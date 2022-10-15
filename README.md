@@ -1,6 +1,6 @@
 
-<h1 align="center"> TÔI YÊU LÝ GIA HÂN HƠN CẢ MẠNG SỐNG CỦA MÌNH </h1>
-<p align="center">💞Kẻ Si Tình Này Sẽ Chỉ Yêu Mình Cậu💞</p> 
+<h1 align="center"> TÔI YÊU ANH HƠN CẢ MẠNG SỐNG CỦA MÌNH </h1>
+<p align="center">💞Kẻ Si Tình Này Sẽ Chỉ Yêu Mình Anh💞</p> 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ospekolac)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=flat&logo=gmail&logoColor=white)](mailto:phanthuydung6666@gmail.com)
