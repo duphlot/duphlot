@@ -9,21 +9,7 @@
 
 ---
 
-## Education
-
-- **2024 – Present:** BSc in Computer Science, Ho Chi Minh City University of Technology
-- **2021 – 2024:** Information Technology Specialized Class, Le Hong Phong High School for the Gifted
-
----
-
 ## My GitHub Stats
-
-<p align="center">
-  <!-- Main stats, dark theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=duphlot&show_icons=true&theme=github_dark&hide_title=true" height="170" />
-  <!-- Streak stats, dark theme -->
-  <img src="https://streak-stats.demolab.com?user=duphlot&theme=github-dark&hide_border=true" height="170" />
-</p>
 
 <p align="center">
   <!-- Languages card, dark theme -->
@@ -34,7 +20,18 @@
 
 ---
 
-## Tech Stack & Tools
+## Education
+
+- **2024 – Present:** BSc in Computer Science, Ho Chi Minh City University of Technology
+- **2021 – 2024:** Information Technology Specialized Class, Le Hong Phong High School for the Gifted
+
+---
+
+## Activities
+
+- Organizer, Google Developer Group on Campus – HCMUT
+- Research Assistant, Unlimited Research Group of AI (URA) – HCMUT
+- Robotics Committee, Le Hong Phong Science Club
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -45,11 +42,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
----
-
-## Activities
-
-- Organizer, Google Developer Group on Campus – HCMUT
-- Research Assistant, Unlimited Research Group of AI (URA) – HCMUT
-- Robotics Committee, Le Hong Phong Science Club
